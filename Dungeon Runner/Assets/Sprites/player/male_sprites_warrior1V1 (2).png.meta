@@ -1,0 +1,1912 @@
+fileFormatVersion: 2
+guid: befb8453d8400854899019a0d17f4e09
+timeCreated: 1507191990
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: male_sprites_warrior1V1 (2)_0
+    21300002: male_sprites_warrior1V1 (2)_1
+    21300004: male_sprites_warrior1V1 (2)_2
+    21300006: male_sprites_warrior1V1 (2)_3
+    21300008: male_sprites_warrior1V1 (2)_4
+    21300010: male_sprites_warrior1V1 (2)_5
+    21300012: male_sprites_warrior1V1 (2)_6
+    21300014: male_sprites_warrior1V1 (2)_7
+    21300016: male_sprites_warrior1V1 (2)_8
+    21300018: male_sprites_warrior1V1 (2)_9
+    21300020: male_sprites_warrior1V1 (2)_10
+    21300022: male_sprites_warrior1V1 (2)_11
+    21300024: male_sprites_warrior1V1 (2)_12
+    21300026: male_sprites_warrior1V1 (2)_13
+    21300028: male_sprites_warrior1V1 (2)_14
+    21300030: male_sprites_warrior1V1 (2)_15
+    21300032: male_sprites_warrior1V1 (2)_16
+    21300034: male_sprites_warrior1V1 (2)_17
+    21300036: male_sprites_warrior1V1 (2)_18
+    21300038: male_sprites_warrior1V1 (2)_19
+    21300040: male_sprites_warrior1V1 (2)_20
+    21300042: male_sprites_warrior1V1 (2)_21
+    21300044: male_sprites_warrior1V1 (2)_22
+    21300046: male_sprites_warrior1V1 (2)_23
+    21300048: male_sprites_warrior1V1 (2)_24
+    21300050: male_sprites_warrior1V1 (2)_25
+    21300052: male_sprites_warrior1V1 (2)_26
+    21300054: male_sprites_warrior1V1 (2)_27
+    21300056: male_sprites_warrior1V1 (2)_28
+    21300058: male_sprites_warrior1V1 (2)_29
+    21300060: male_sprites_warrior1V1 (2)_30
+    21300062: male_sprites_warrior1V1 (2)_31
+    21300064: male_sprites_warrior1V1 (2)_32
+    21300066: male_sprites_warrior1V1 (2)_33
+    21300068: male_sprites_warrior1V1 (2)_34
+    21300070: male_sprites_warrior1V1 (2)_35
+    21300072: male_sprites_warrior1V1 (2)_36
+    21300074: male_sprites_warrior1V1 (2)_37
+    21300076: male_sprites_warrior1V1 (2)_38
+    21300078: male_sprites_warrior1V1 (2)_39
+    21300080: male_sprites_warrior1V1 (2)_40
+    21300082: male_sprites_warrior1V1 (2)_41
+    21300084: male_sprites_warrior1V1 (2)_42
+    21300086: male_sprites_warrior1V1 (2)_43
+    21300088: male_sprites_warrior1V1 (2)_44
+    21300090: male_sprites_warrior1V1 (2)_45
+    21300092: male_sprites_warrior1V1 (2)_46
+    21300094: male_sprites_warrior1V1 (2)_47
+    21300096: male_sprites_warrior1V1 (2)_48
+    21300098: male_sprites_warrior1V1 (2)_49
+    21300100: male_sprites_warrior1V1 (2)_50
+    21300102: male_sprites_warrior1V1 (2)_51
+    21300104: male_sprites_warrior1V1 (2)_52
+    21300106: male_sprites_warrior1V1 (2)_53
+    21300108: male_sprites_warrior1V1 (2)_54
+    21300110: male_sprites_warrior1V1 (2)_55
+    21300112: male_sprites_warrior1V1 (2)_56
+    21300114: male_sprites_warrior1V1 (2)_57
+    21300116: male_sprites_warrior1V1 (2)_58
+    21300118: male_sprites_warrior1V1 (2)_59
+    21300120: male_sprites_warrior1V1 (2)_60
+    21300122: male_sprites_warrior1V1 (2)_61
+    21300124: male_sprites_warrior1V1 (2)_62
+    21300126: male_sprites_warrior1V1 (2)_63
+    21300128: male_sprites_warrior1V1 (2)_64
+    21300130: male_sprites_warrior1V1 (2)_65
+    21300132: male_sprites_warrior1V1 (2)_66
+    21300134: male_sprites_warrior1V1 (2)_67
+    21300136: male_sprites_warrior1V1 (2)_68
+    21300138: male_sprites_warrior1V1 (2)_69
+    21300140: male_sprites_warrior1V1 (2)_70
+    21300142: male_sprites_warrior1V1 (2)_71
+    21300144: male_sprites_warrior1V1 (2)_72
+    21300146: male_sprites_warrior1V1 (2)_73
+    21300148: male_sprites_warrior1V1 (2)_74
+    21300150: male_sprites_warrior1V1 (2)_75
+    21300152: male_sprites_warrior1V1 (2)_76
+    21300154: male_sprites_warrior1V1 (2)_77
+    21300156: male_sprites_warrior1V1 (2)_78
+    21300158: male_sprites_warrior1V1 (2)_79
+    21300160: male_sprites_warrior1V1 (2)_80
+    21300162: male_sprites_warrior1V1 (2)_81
+    21300164: male_sprites_warrior1V1 (2)_82
+    21300166: male_sprites_warrior1V1 (2)_83
+    21300168: male_sprites_warrior1V1 (2)_84
+    21300170: male_sprites_warrior1V1 (2)_85
+    21300172: male_sprites_warrior1V1 (2)_86
+    21300174: male_sprites_warrior1V1 (2)_87
+    21300176: male_sprites_warrior1V1 (2)_88
+    21300178: male_sprites_warrior1V1 (2)_89
+    21300180: male_sprites_warrior1V1 (2)_90
+    21300182: male_sprites_warrior1V1 (2)_91
+    21300184: male_sprites_warrior1V1 (2)_92
+    21300186: male_sprites_warrior1V1 (2)_93
+    21300188: male_sprites_warrior1V1 (2)_94
+    21300190: male_sprites_warrior1V1 (2)_95
+    21300192: male_sprites_warrior1V1 (2)_96
+    21300194: male_sprites_warrior1V1 (2)_97
+    21300196: male_sprites_warrior1V1 (2)_98
+    21300198: male_sprites_warrior1V1 (2)_99
+    21300200: male_sprites_warrior1V1 (2)_100
+    21300202: male_sprites_warrior1V1 (2)_101
+    21300204: male_sprites_warrior1V1 (2)_102
+    21300206: male_sprites_warrior1V1 (2)_103
+    21300208: male_sprites_warrior1V1 (2)_104
+    21300210: male_sprites_warrior1V1 (2)_105
+    21300212: male_sprites_warrior1V1 (2)_106
+    21300214: male_sprites_warrior1V1 (2)_107
+    21300216: male_sprites_warrior1V1 (2)_108
+    21300218: male_sprites_warrior1V1 (2)_109
+    21300220: male_sprites_warrior1V1 (2)_110
+    21300222: male_sprites_warrior1V1 (2)_111
+    21300224: male_sprites_warrior1V1 (2)_112
+    21300226: male_sprites_warrior1V1 (2)_113
+    21300228: male_sprites_warrior1V1 (2)_114
+    21300230: male_sprites_warrior1V1 (2)_115
+    21300232: male_sprites_warrior1V1 (2)_116
+    21300234: male_sprites_warrior1V1 (2)_117
+    21300236: male_sprites_warrior1V1 (2)_118
+    21300238: male_sprites_warrior1V1 (2)_119
+    21300240: male_sprites_warrior1V1 (2)_120
+    21300242: male_sprites_warrior1V1 (2)_121
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_0
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1282
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1282
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_2
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1282
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_3
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1282
+        width: 19
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_4
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1282
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_5
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1282
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_6
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1282
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1218
+        width: 54
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_8
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1216
+        width: 51
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_9
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1216
+        width: 40
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_10
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1216
+        width: 30
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_11
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1216
+        width: 30
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_12
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1216
+        width: 30
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1216
+        width: 15
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1154
+        width: 51
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_15
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1154
+        width: 54
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_16
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1154
+        width: 54
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_17
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1154
+        width: 54
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_18
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1154
+        width: 54
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_19
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1154
+        width: 54
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_20
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1154
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1090
+        width: 42
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_22
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1102
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_23
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1091
+        width: 51
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_24
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1089
+        width: 40
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_25
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1091
+        width: 30
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_26
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1091
+        width: 30
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_27
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1088
+        width: 30
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_28
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1091
+        width: 17
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_29
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1026
+        width: 51
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_30
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1026
+        width: 54
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_31
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1039
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_32
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1026
+        width: 56
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_33
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1026
+        width: 53
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_34
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1026
+        width: 50
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_35
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1026
+        width: 59
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_36
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 963
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_37
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 963
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_38
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 962
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_39
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 961
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_40
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 962
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_41
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 963
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_42
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 962
+        width: 17
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_43
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 898
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_44
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 898
+        width: 29
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_45
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 899
+        width: 29
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_46
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 899
+        width: 29
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_47
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 898
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_48
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 898
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_49
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 898
+        width: 16
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_50
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 834
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_51
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 834
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_52
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 833
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_53
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 833
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_54
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 833
+        width: 31
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_55
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 834
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_56
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 833
+        width: 17
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_57
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 770
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_58
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 770
+        width: 29
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_59
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 771
+        width: 29
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_60
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 771
+        width: 29
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_61
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 770
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_62
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 770
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_63
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 770
+        width: 17
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_64
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 706
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_65
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 705
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_66
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 705
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_67
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 705
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_68
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 705
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_69
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 705
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_70
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 642
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_71
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 642
+        width: 29
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_72
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 642
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_73
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 642
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_74
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 642
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_75
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 642
+        width: 33
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_76
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 578
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_77
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 578
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_78
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 578
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_79
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 578
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_80
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 578
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_81
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 578
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_82
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 514
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_83
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 514
+        width: 29
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_84
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 514
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_85
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 514
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_86
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 514
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_87
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 514
+        width: 33
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_88
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 450
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_89
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 448
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_90
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 448
+        width: 31
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_91
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 448
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_92
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 448
+        width: 31
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_93
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 448
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_94
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 448
+        width: 18
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_95
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 386
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_96
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 386
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_97
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 386
+        width: 33
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_98
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 386
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_99
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 386
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_100
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 386
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_101
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 387
+        width: 22
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_102
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 322
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_103
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 323
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_104
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 323
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_105
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 322
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_106
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 322
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_107
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 322
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_108
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 322
+        width: 18
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_109
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 258
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_110
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 258
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_111
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 258
+        width: 33
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_112
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 258
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_113
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 258
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_114
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 258
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_115
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 258
+        width: 18
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_116
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 194
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_117
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 194
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_118
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 194
+        width: 30
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_119
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 195
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_120
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 195
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: male_sprites_warrior1V1 (2)_121
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 193
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

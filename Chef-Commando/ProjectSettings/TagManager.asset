@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactable
+  - egg
+  - ham
+  - omelette
+  - Hamburger
+  - Veggy
+  - Pesca
+  - Meat
+  - Fish
+  - Customer
+  - CustomerReach
+  - Money
+  - SkillAlert
+  - UpgradeButton
+  - PointsToSpend
+  - CookBook
+  - XPPanel
+  - ingredient
+  - HealthPanel
+  - JumpLevels
+  - ThrowLevels
+  - SpeedLevels
+  - HealthLevels
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Pickups
+  - Static Geometry
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

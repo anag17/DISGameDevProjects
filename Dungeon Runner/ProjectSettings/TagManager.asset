@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Coin
+  - PauseButton
+  - Thief
+  - Ranger
+  - Mage
+  - Warrior
+  - Cleric
+  - Fireball
+  - Arrow
+  - ClericButton
+  - MageButton
+  - RangerButton
+  - ThiefButton
+  - WarriorButton
+  - Boulder
+  - Chest
+  - EnemyArrow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 900125723
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

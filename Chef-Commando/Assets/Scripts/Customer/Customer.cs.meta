@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f32ade5dc58f7224db2ea329603363e8
+timeCreated: 1512059891
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - coin: {fileID: 1195837213676650, guid: 3a2c41ddc91de744c8d033731cbe36e6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

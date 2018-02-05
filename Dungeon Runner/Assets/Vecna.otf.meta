@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e7610175f59fa5b49b3edf27fb0015a3
+timeCreated: 1507136807
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vecna
+  fontNames:
+  - Vecna
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

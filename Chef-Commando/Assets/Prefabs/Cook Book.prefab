@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1878673532606846}
+  m_IsPrefabParent: 1
+--- !u!1 &1878673532606846
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4463871002626502}
+  - component: {fileID: 114513195923901882}
+  m_Layer: 0
+  m_Name: Cook Book
+  m_TagString: CookBook
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4463871002626502
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1878673532606846}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114513195923901882
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1878673532606846}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b76786a1884842a4cb30cceda83ee8f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  recipes:
+  - meal: {fileID: 114728173807583466, guid: 8e5e8894cbdc743c1a5f0494e45be5ec, type: 2}
+    ingredients:
+    - {fileID: 114456193169322250, guid: aca69638b196ebf47b883ac16396facd, type: 2}
+    - {fileID: 114456193169322250, guid: aca69638b196ebf47b883ac16396facd, type: 2}
+  - meal: {fileID: 114170682262068384, guid: 3c6e2a26f34396549b1f3b725625eac7, type: 2}
+    ingredients:
+    - {fileID: 114245842455472428, guid: 2bf9a9de0a19a6244b28f72ac898b2d8, type: 2}
+    - {fileID: 114667668982820750, guid: 196fe542ad163b149adf1ca04c19c753, type: 2}
+    - {fileID: 114995551917544056, guid: 07c1ce2b91eb18f4c83d7d36268a0341, type: 2}
+  - meal: {fileID: 114695173775344624, guid: 2a79153a0e896724caa73afa19f708c8, type: 2}
+    ingredients:
+    - {fileID: 114662387269903666, guid: b7d70d80ddd390f41a1bdde5957f74f0, type: 2}
+    - {fileID: 114995551917544056, guid: 07c1ce2b91eb18f4c83d7d36268a0341, type: 2}
+    - {fileID: 114568929748081278, guid: 43d9530894ffb9e468b06ef86dc4efa8, type: 2}
+    - {fileID: 114224176439228328, guid: b29c3addc4240254785fef8671d1291b, type: 2}
+  - meal: {fileID: 114501613027974938, guid: 3c2e7dbde68087547ae2eeca74dffec4, type: 2}
+    ingredients:
+    - {fileID: 114532754290461674, guid: 819bc2dc8cc285d4db64ae40568e2150, type: 2}
+    - {fileID: 114995551917544056, guid: 07c1ce2b91eb18f4c83d7d36268a0341, type: 2}
+  - meal: {fileID: 114456411578346376, guid: bf960492e4c076c458d1ba649dc26577, type: 2}
+    ingredients:
+    - {fileID: 114667668982820750, guid: 196fe542ad163b149adf1ca04c19c753, type: 2}
+    - {fileID: 114532754290461674, guid: 819bc2dc8cc285d4db64ae40568e2150, type: 2}
+  - meal: {fileID: 114302229124175062, guid: b2a0b1a2967ad483a8b3a2be3306e7b8, type: 2}
+    ingredients:
+    - {fileID: 114779623085374846, guid: 88b89707ae9837649a60fd942ad1876e, type: 2}
+    - {fileID: 114779623085374846, guid: 88b89707ae9837649a60fd942ad1876e, type: 2}
